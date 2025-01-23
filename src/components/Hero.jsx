@@ -30,8 +30,6 @@ function Hero() {
       </div>
     </div>
   </div>
-
-// col-lg-6 col-xxl-4 my-5 mx-auto
       
 
       
